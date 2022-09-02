@@ -1,0 +1,2 @@
+#!/bin/bash
+chmkd ug+x,o+r hello
