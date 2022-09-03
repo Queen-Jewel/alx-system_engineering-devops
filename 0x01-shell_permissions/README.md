@@ -1,1 +1,1 @@
-symbolic link permission
+if only
