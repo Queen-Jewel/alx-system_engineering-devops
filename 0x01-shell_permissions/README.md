@@ -1,1 +1,1 @@
-directories permission
+my dir permission
