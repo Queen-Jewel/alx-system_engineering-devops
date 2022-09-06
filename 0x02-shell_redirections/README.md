@@ -1,1 +1,1 @@
-No more js
+make directories count
