@@ -1,1 +1,1 @@
-Divide and rule
+love exponent breath
