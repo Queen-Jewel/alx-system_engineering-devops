@@ -1,1 +1,1 @@
-if the path be beautiful
+global variables
